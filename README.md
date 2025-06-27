@@ -4,3 +4,5 @@ A small **offline calculator** for the Roblox game **[Grow a Garden](https://www
 Quickly see **fruit prices**, **mutation multipliers**, and **GAG values** without opening the game.
 
 **Keywords:** Grow a Garden, Grow a Garden Values, Grow a Garden Calculator, GAG values, GAG Calculator, Grow a Garden Price, Grow-a-Garden value checker
+
+**[Release v1](https://github.com/TheGoat65/Grow-a-Garden-Calculator/releases/tag/v1)**
